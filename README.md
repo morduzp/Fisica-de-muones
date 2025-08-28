@@ -10,7 +10,7 @@ El programa implementa el procesamiento de los datos, la construcción de histog
 
 ## Limitación en GitHub
 El archivo original `muones.txt` no pudo ser cargado en este repositorio debido a que excede el límite estándar de GitHub (100 MB).  
-Por esta razón, aquí se encuentra únicamente el código de análisis. Para ejecutar el programa, es necesario contar con un archivo de datos local en el mismo formato (una columna con tiempos en **nanosegundos**).
+Por esta razón, aquí se encuentra únicamente el código de análisis. Para ejecutar el programa, es necesario descargar el archivo de datos adjunto en Bloque Neon.
 
 ## Instrucciones de uso
 1. Clone este repositorio.  
